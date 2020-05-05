@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gk-rpc-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gk-rpc-codec" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gk-rpc-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gk-rpc-example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gk-rpc-proto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gk-rpc-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gk-rpc-transport" charset="UTF-8" />
+  </component>
+</project>
